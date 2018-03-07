@@ -1,22 +1,13 @@
 
 C:\Users\Nahid\Documents\MachineLearningProjects\#5 tensorflow_Dog_vs_Cat_CNNwithKeras>python TFLearn_Dog_vs_Cat_CNN.py
-C:\Users\Nahid\AppData\Local\Programs\Python\Python36\lib\site-packages\h5py\__init__.py:36: FutureWarning: Conversion of the second argument of issubdtype from `float` to `np.floating` is deprecated. In future, it will be treated as `np.float64 == np.dtype(float).type`.
-  from ._conv import register_converters as _register_converters
-curses is not supported on this machine (please install/reinstall curses for an optimal experience)
+
 Training Data Ready...
 Validation Data Ready...
-WARNING:tensorflow:From C:\Users\Nahid\AppData\Local\Programs\Python\Python36\lib\site-packages\tflearn\initializations.py:119: UniformUnitScaling.__init__ (from tensorflow.python.ops.init_ops) is deprecated and will be removed in a future version.
-Instructions for updating:
-Use tf.initializers.variance_scaling instead with distribution=uniform to get equivalent behavior.
-WARNING:tensorflow:From C:\Users\Nahid\AppData\Local\Programs\Python\Python36\lib\site-packages\tflearn\objectives.py:66: calling reduce_sum (from tensorflow.python.ops.math_ops) with keep_dims is deprecated and will be removed in a future version.
-Instructions for updating:
-keep_dims is deprecated, use keepdims instead
 AlexNet Created...
 Training Samples = 17500
 Validation Samples = 7500
 
 Training Started...
-2018-03-06 14:39:07.529571: I C:\tf_jenkins\workspace\rel-win\M\windows\PY\36\tensorflow\core\platform\cpu_feature_guard.cc:140] Your CPU supports instructions that this TensorFlow binary was not compiled to use: AVX2
 ---------------------------------
 Run id: dogvscat_tflearn_run01
 Log directory: /tmp/tflearn_logs/
