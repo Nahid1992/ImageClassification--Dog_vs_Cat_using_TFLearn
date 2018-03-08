@@ -6,7 +6,7 @@ This is a project for Image Classification of Dogs & Cats. The Classifier was bu
 ### Database
 Dog vs Cat dataset was downloaded from [Kaggle](https://www.kaggle.com/c/dogs-vs-cats).
 #### Dataset Properties
-	The Training set has 25,000 images; <br>
+	The Training set has 25,000 images;
 	The Testing set has 12,500 images;
 
 ## Dependencies
